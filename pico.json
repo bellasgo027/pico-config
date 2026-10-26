@@ -1,0 +1,213 @@
+{
+  "version": "2026-10-22-todas-verificadas",
+  "updated": "2026-10-22T19:30:00-05:00",
+  "source": "Alcaldias oficiales verificadas Google",
+  "cities": {
+    "medellin": {
+      "name": "Medellín",
+      "schedule": {
+        "lunes": [
+          5,
+          8
+        ],
+        "martes": [
+          1,
+          4
+        ],
+        "miercoles": [
+          0,
+          2
+        ],
+        "jueves": [
+          3,
+          6
+        ],
+        "viernes": [
+          7,
+          9
+        ],
+        "sabado": [],
+        "domingo": []
+      },
+      "horario": "5:00 a.m. - 8:00 p.m.",
+      "fuente": "Alcaldia Medellin - Lunes 5 y 8, Martes 1 y 4, Miercoles 0 y 2, Jueves 3 y 6, Viernes 7 y 9 - 3 ago 2026 al 29 ene 2027",
+      "vigencia": "3 ago 2026 - 29 ene 2027"
+    },
+    "cali": {
+      "name": "Cali",
+      "schedule": {
+        "lunes": [
+          9,
+          0
+        ],
+        "martes": [
+          1,
+          2
+        ],
+        "miercoles": [
+          3,
+          4
+        ],
+        "jueves": [
+          5,
+          6
+        ],
+        "viernes": [
+          7,
+          8
+        ],
+        "sabado": [],
+        "domingo": []
+      },
+      "horario": "6:00 a.m. - 7:00 p.m.",
+      "fuente": "Secretaria Movilidad Cali - 1 julio al 31 dic 2026: Lunes 9 y 0, Martes 1 y 2, Miercoles 3 y 4, Jueves 5 y 6, Viernes 7 y 8",
+      "vigencia": "1 jul - 31 dic 2026"
+    },
+    "bogota": {
+      "name": "Bogotá",
+      "type": "par_impar",
+      "schedule_type": "dias_impares_circulan_1-5",
+      "schedule": {
+        "impar": [
+          6,
+          7,
+          8,
+          9,
+          0
+        ],
+        "par": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "sabado": [],
+        "domingo": []
+      },
+      "horario": "6:00 a.m. - 9:00 p.m.",
+      "fuente": "Secretaria Movilidad Bogota - Dias impares circulan 1-5, pares 6-0",
+      "nota": "Lunes 19 Oct circulan 1,2,3,4,5"
+    },
+    "bucaramanga": {
+      "name": "Bucaramanga",
+      "schedule": {
+        "lunes": [
+          5,
+          6
+        ],
+        "martes": [
+          7,
+          8
+        ],
+        "miercoles": [
+          9,
+          0
+        ],
+        "jueves": [
+          1,
+          2
+        ],
+        "viernes": [
+          3,
+          4
+        ],
+        "sabado": [],
+        "domingo": []
+      },
+      "horario": "6:00 a.m. - 8:00 p.m. (sab 9am-1pm)",
+      "fuente": "Direccion Transito Bucaramanga - Lunes 5 y 6; Martes 7 y 8; Miercoles 9 y 0; Jueves 1 y 2; Viernes 3 y 4 - 5 oct al 31 dic 2026",
+      "vigencia": "5 oct - 31 dic 2026"
+    },
+    "barranquilla": {
+      "name": "Barranquilla",
+      "schedule": {
+        "lunes": [],
+        "martes": [],
+        "miercoles": [],
+        "jueves": [],
+        "viernes": [],
+        "sabado": [],
+        "domingo": []
+      },
+      "horario": "Sin restriccion",
+      "fuente": "Alcaldia Barranquilla - No hay pico y placa permanente para particulares - solo taxis",
+      "nota": "Sin pico permanente desde 8 jul 2025"
+    },
+    "cartagena": {
+      "name": "Cartagena",
+      "schedule": {
+        "lunes": [
+          1,
+          2
+        ],
+        "martes": [
+          3,
+          4
+        ],
+        "miercoles": [
+          5,
+          6
+        ],
+        "jueves": [
+          7,
+          8
+        ],
+        "viernes": [
+          9,
+          0
+        ],
+        "sabado": [],
+        "domingo": []
+      },
+      "horario": "7:00 a.m. - 8:00 p.m.",
+      "fuente": "DATT Cartagena - Decreto 0015 - Lunes 1 y 2 - 5 oct 2026 al 22 ene 2027",
+      "vigencia": "5 oct 2026 - 22 ene 2027"
+    },
+    "manizales": {
+      "name": "Manizales",
+      "schedule": {
+        "lunes": [],
+        "martes": [],
+        "miercoles": [],
+        "jueves": [],
+        "viernes": [],
+        "sabado": [],
+        "domingo": []
+      },
+      "horario": "Sin restriccion",
+      "fuente": "Secretaria Movilidad Manizales - No existe pico y placa para particulares",
+      "nota": "Solo taxis"
+    },
+    "pereira": {
+      "name": "Pereira",
+      "schedule": {
+        "lunes": [
+          0,
+          1
+        ],
+        "martes": [
+          2,
+          3
+        ],
+        "miercoles": [
+          4,
+          5
+        ],
+        "jueves": [
+          6,
+          7
+        ],
+        "viernes": [
+          8,
+          9
+        ],
+        "sabado": [],
+        "domingo": []
+      },
+      "horario": "6:00 a.m. - 8:00 p.m.",
+      "fuente": "Secretaria Movilidad Pereira - Lunes 0-1, Martes 2-3, Miercoles 4-5, Jueves 6-7, Viernes 8-9 - Hasta 31 dic 2026",
+      "vigencia": "Hasta 31 dic 2026"
+    }
+  }
+}
